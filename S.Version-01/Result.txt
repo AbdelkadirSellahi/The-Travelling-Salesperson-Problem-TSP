@@ -1,0 +1,21 @@
+Visited sites:
+id: 0 , Departure time: 8 h 0 min 
+id: 71 , Arrival time: 8 h 39 min  , Departure time: 8 h 53 min 
+id: 145 , Arrival time: 9 h 23 min  , Departure time: 9 h 37 min 
+id: 141 , Arrival time: 9 h 39 min  , Departure time: 9 h 52 min 
+id: 67 , Arrival time: 10 h 8 min  , Departure time: 10 h 22 min 
+id: 15 , Arrival time: 10 h 35 min  , Departure time: 10 h 49 min 
+id: 115 , Arrival time: 11 h 12 min  , Departure time: 11 h 26 min 
+id: 109 , Arrival time: 12 h 26 min  , Departure time: 12 h 40 min 
+id: 79 , Arrival time: 12 h 59 min  , Departure time: 13 h 11 min 
+id: 127 , Arrival time: 14 h 2 min  , Departure time: 14 h 14 min 
+id: 52 , Arrival time: 14 h 59 min  , Departure time: 15 h 13 min 
+id: 58 , Arrival time: 16 h 13 min  , Departure time: 16 h 25 min 
+id: 106 , Arrival time: 16 h 43 min  , Departure time: 16 h 54 min 
+id: 103 , Arrival time: 17 h 6 min  , Departure time: 17 h 18 min 
+id: 81 , Arrival time: 18 h 11 min  , Departure time: 18 h 21 min 
+id: 0 , Arrival time: 18 h 40 min 
+Number of visited sites: 14
+Final score: 1463
+Time consumed: 640 minutes
+Time: 18 h 40 min 
